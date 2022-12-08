@@ -1,5 +1,6 @@
-# Code by d10yple
+# Coded by d10yple
 # adventofcode day 1
+
 def main():
     calories = []; #list of all calories
     individual_calories = [] #list of individual calorie (to fill calories list)
